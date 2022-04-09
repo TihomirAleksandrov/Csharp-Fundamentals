@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4763ca29-d2cd-455d-9e53-93690895d3c9": {
+      "ProjectGuid": "4763ca29-d2cd-455d-9e53-93690895d3c9",
+      "DisplayName": "EncryptSortAndPrintArray",
+      "ColorIndex": 0
+    },
+    "750b1d42-748d-4356-b539-78d558eaa825": {
+      "ProjectGuid": "750b1d42-748d-4356-b539-78d558eaa825",
+      "DisplayName": "PascalTriangle",
+      "ColorIndex": 1
+    },
+    "50df8792-f52f-47c3-a22d-5fbb9f0ee7ea": {
+      "ProjectGuid": "50df8792-f52f-47c3-a22d-5fbb9f0ee7ea",
+      "DisplayName": "RecursiveFibonacci",
+      "ColorIndex": 2
+    },
+    "0f10306f-fe89-476c-9c40-21f151b1ff5d": {
+      "ProjectGuid": "0f10306f-fe89-476c-9c40-21f151b1ff5d",
+      "DisplayName": "FoldAndSum",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

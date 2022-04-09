@@ -1,0 +1,14 @@
+C:\Users\l\source\repos\ArraysMoreExercise\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.exe
+C:\Users\l\source\repos\ArraysMoreExercise\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.deps.json
+C:\Users\l\source\repos\ArraysMoreExercise\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.runtimeconfig.json
+C:\Users\l\source\repos\ArraysMoreExercise\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.runtimeconfig.dev.json
+C:\Users\l\source\repos\ArraysMoreExercise\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.dll
+C:\Users\l\source\repos\ArraysMoreExercise\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.pdb
+C:\Users\l\source\repos\ArraysMoreExercise\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.csproj.AssemblyReference.cache
+C:\Users\l\source\repos\ArraysMoreExercise\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l\source\repos\ArraysMoreExercise\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\l\source\repos\ArraysMoreExercise\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.AssemblyInfo.cs
+C:\Users\l\source\repos\ArraysMoreExercise\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\l\source\repos\ArraysMoreExercise\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.dll
+C:\Users\l\source\repos\ArraysMoreExercise\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.pdb
+C:\Users\l\source\repos\ArraysMoreExercise\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.genruntimeconfig.cache

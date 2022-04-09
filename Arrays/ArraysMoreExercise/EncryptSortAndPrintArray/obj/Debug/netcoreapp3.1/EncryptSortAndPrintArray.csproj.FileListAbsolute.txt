@@ -1,0 +1,14 @@
+C:\Users\l\source\repos\ArraysMoreExercise\EncryptSortAndPrintArray\bin\Debug\netcoreapp3.1\EncryptSortAndPrintArray.exe
+C:\Users\l\source\repos\ArraysMoreExercise\EncryptSortAndPrintArray\bin\Debug\netcoreapp3.1\EncryptSortAndPrintArray.deps.json
+C:\Users\l\source\repos\ArraysMoreExercise\EncryptSortAndPrintArray\bin\Debug\netcoreapp3.1\EncryptSortAndPrintArray.runtimeconfig.json
+C:\Users\l\source\repos\ArraysMoreExercise\EncryptSortAndPrintArray\bin\Debug\netcoreapp3.1\EncryptSortAndPrintArray.runtimeconfig.dev.json
+C:\Users\l\source\repos\ArraysMoreExercise\EncryptSortAndPrintArray\bin\Debug\netcoreapp3.1\EncryptSortAndPrintArray.dll
+C:\Users\l\source\repos\ArraysMoreExercise\EncryptSortAndPrintArray\bin\Debug\netcoreapp3.1\EncryptSortAndPrintArray.pdb
+C:\Users\l\source\repos\ArraysMoreExercise\EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\EncryptSortAndPrintArray.csproj.AssemblyReference.cache
+C:\Users\l\source\repos\ArraysMoreExercise\EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\EncryptSortAndPrintArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l\source\repos\ArraysMoreExercise\EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\EncryptSortAndPrintArray.AssemblyInfoInputs.cache
+C:\Users\l\source\repos\ArraysMoreExercise\EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\EncryptSortAndPrintArray.AssemblyInfo.cs
+C:\Users\l\source\repos\ArraysMoreExercise\EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\EncryptSortAndPrintArray.csproj.CoreCompileInputs.cache
+C:\Users\l\source\repos\ArraysMoreExercise\EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\EncryptSortAndPrintArray.dll
+C:\Users\l\source\repos\ArraysMoreExercise\EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\EncryptSortAndPrintArray.pdb
+C:\Users\l\source\repos\ArraysMoreExercise\EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\EncryptSortAndPrintArray.genruntimeconfig.cache
