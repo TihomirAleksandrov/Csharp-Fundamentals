@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2f02e764-120b-48c0-a3c1-5b5c49379e9f": {
+      "ProjectGuid": "2f02e764-120b-48c0-a3c1-5b5c49379e9f",
+      "DisplayName": "SumAdjacentEqualNumbers",
+      "ColorIndex": 0
+    },
+    "a5cc3249-81d9-4af1-8f28-4c3c6e211e49": {
+      "ProjectGuid": "a5cc3249-81d9-4af1-8f28-4c3c6e211e49",
+      "DisplayName": "GaussTrick",
+      "ColorIndex": 1
+    },
+    "53fd6603-3ef3-4983-83cb-9ca510f504f9": {
+      "ProjectGuid": "53fd6603-3ef3-4983-83cb-9ca510f504f9",
+      "DisplayName": "MergingLists",
+      "ColorIndex": 2
+    },
+    "e7fc09a1-8a44-471e-905a-158bea12a62e": {
+      "ProjectGuid": "e7fc09a1-8a44-471e-905a-158bea12a62e",
+      "DisplayName": "ListOfProducts",
+      "ColorIndex": 3
+    },
+    "c7b7f092-2f11-4bbd-aede-051e82aa27fa": {
+      "ProjectGuid": "c7b7f092-2f11-4bbd-aede-051e82aa27fa",
+      "DisplayName": "RemoveNegativeAndReverse",
+      "ColorIndex": 4
+    },
+    "8e8d17bc-d5a1-41a1-b12b-673db3e1ddb9": {
+      "ProjectGuid": "8e8d17bc-d5a1-41a1-b12b-673db3e1ddb9",
+      "DisplayName": "ListManipulationBasics",
+      "ColorIndex": 5
+    },
+    "186554aa-ef18-4173-8040-2a65bc077efe": {
+      "ProjectGuid": "186554aa-ef18-4173-8040-2a65bc077efe",
+      "DisplayName": "ListManipulationAdvanced",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

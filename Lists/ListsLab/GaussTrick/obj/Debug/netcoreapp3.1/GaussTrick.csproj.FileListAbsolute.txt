@@ -1,0 +1,14 @@
+C:\Users\l\source\repos\ListsLab\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.exe
+C:\Users\l\source\repos\ListsLab\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.deps.json
+C:\Users\l\source\repos\ListsLab\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.runtimeconfig.json
+C:\Users\l\source\repos\ListsLab\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.runtimeconfig.dev.json
+C:\Users\l\source\repos\ListsLab\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.dll
+C:\Users\l\source\repos\ListsLab\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.pdb
+C:\Users\l\source\repos\ListsLab\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.csproj.AssemblyReference.cache
+C:\Users\l\source\repos\ListsLab\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l\source\repos\ListsLab\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.AssemblyInfoInputs.cache
+C:\Users\l\source\repos\ListsLab\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.AssemblyInfo.cs
+C:\Users\l\source\repos\ListsLab\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.csproj.CoreCompileInputs.cache
+C:\Users\l\source\repos\ListsLab\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.dll
+C:\Users\l\source\repos\ListsLab\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.pdb
+C:\Users\l\source\repos\ListsLab\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.genruntimeconfig.cache
